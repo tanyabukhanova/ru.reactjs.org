@@ -22,6 +22,11 @@ February 27 & 28, 2020 in Sydney, Australia
 
 [Website](https://reactconfau.com/) - [Twitter](https://twitter.com/reactconfau) - [Facebook](https://www.facebook.com/reactconfau) - [Instagram](https://www.instagram.com/reactconfau/)
 
+### JavaScript fwdays'20 {#jsfwdays}
+March 14, 2020 in Kyiv, Ukraine
+
+[Website](https://fwdays.com/en/event/js-fwdays-2020) - [Twitter](https://twitter.com/notifications)
+
 ### ReactConf Japan 2020 {#reactconfjp-2020}
 March 21, 2020 in Tokyo, Japan
 
